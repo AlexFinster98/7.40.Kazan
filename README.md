@@ -1,1 +1,1 @@
-7.40.Kazan.html
+7.40.Kazan
